@@ -47,42 +47,37 @@ Ctrl + Alt + M
 Ctrl + Alt + N
 ```
 
-10. Agregar multicursor arriba - **Personalizado**
+10. Agregar multicursor (arriba o abajo)
 ```
-Ctrl + Alt + I
-```
-
-11. Agregar multicursor abajo - **Personalizado**
-```
-Ctrl + Alt + U
+Ctrl + Alt + ↑↓
 ```
 
-12. Buscar linea en un archivo
+11. Buscar linea en un archivo
 ```
 Ctrl + G
 ```
 
-13. Entrar en Zen Mode
+12. Entrar en Zen Mode
 ```
 Ctrl + K Z
 ```
 
-14. Cerrar carpeta del editor
+13. Cerrar carpeta del editor
 ```
 Ctrl + K F
 ```
 
-15. Oculta barra de archivos - lateral
+14. Oculta barra de archivos - lateral
 ```
 Ctrl + B
 ```
 
-16. Acceder a las extensiones
+15. Acceder a las extensiones
 ```
 Ctrl + Shift + X
 ```
 
-17. Cerrar visual studio code
+16. Cerrar visual studio code
 ```
 Ctrl + Shift + w
 ```
