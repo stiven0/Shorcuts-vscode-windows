@@ -9,7 +9,7 @@ Ctrl + Shift + L
 
 2. Encuentra la siguiente ocurrencia
 ```
-Ctrl + Shift + D
+Ctrl + D
 ```     
 
 3. Cerrar pestaña actual
